@@ -1,1 +1,7 @@
 print("Hello Nikitha")
+s1=input("enter a string 1")
+s2=input("enter a string 2")
+print(s1>s2)
+print(s1<s2)
+print(s1>=s2)
+print(s1<=s2)                        
